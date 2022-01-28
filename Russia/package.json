@@ -1,0 +1,26 @@
+{
+  "name": "russia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bent": "^7.3.12",
+    "flowdock-text": "^1.2.0",
+    "iconv-lite": "^0.6.2",
+    "minimist": "^1.2.5",
+    "mysql2": "^2.2.5",
+    "node-libcurl": "^2.3.0",
+    "orm": "^5.0.5",
+    "request": "^2.88.2",
+    "sequelize": "^6.3.5",
+    "sleep": "^6.3.0",
+    "sqlite3": "^5.0.0",
+    "sqlite3-helper": "^2.0.1",
+    "windows-1251": "^1.0.0"
+  }
+}
